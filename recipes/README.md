@@ -1,1 +1,1 @@
-This will be a simple recipe website to practice my HTML skills
+This will be a simple recipe website to practice my HTML skills. The first commit was a little bumpy, wasn't sure where to enter the commit message - in the VCS or terminal. 
