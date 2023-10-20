@@ -1,1 +1,2 @@
 This will be a simple recipe website to practice my HTML skills. The first commit was a little bumpy, wasn't sure where to enter the commit message - in the VCS or terminal. 
+on Oct 20, I finished my first recipe webpage and used best practices to link to the original website where the reciipe was published to give the author the proper credit. I used _blank and noopener noreferrer attributes to make the page safe from any potential security issues. It was FUN to see everything work. Now, off to commit to Github.
